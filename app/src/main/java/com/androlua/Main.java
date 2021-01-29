@@ -2,6 +2,9 @@ package com.androlua;
 
 import android.content.Intent;
 import android.os.Bundle;
+import com.microsoft.appcenter.AppCenter;
+import com.microsoft.appcenter.analytics.Analytics;
+import com.microsoft.appcenter.crashes.Crashes;
 
 
 public class Main extends LuaActivity
